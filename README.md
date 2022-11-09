@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satan7549&show_icons=true&locale=en" alt="satan7549" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satan7549&" alt="satan7549" /></p>
+</br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
