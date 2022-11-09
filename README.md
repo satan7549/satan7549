@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satan7549&" alt="satan7549" /></p>
 </br>
 <div>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quots](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
