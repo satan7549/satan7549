@@ -1,5 +1,7 @@
 ![Logo](https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg)
-<h1 align="center">Hi 👋, I'm Satan Sharma 🙂</h1>
+<h1 align="center">Hi 
+  <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" />
+  , I'm Satan Sharma 🙂</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div align="center" >
