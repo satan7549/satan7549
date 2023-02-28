@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="">
-<a href="https://twitter.com/satansharma31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satansharma31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satansharma-7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satansharma-7549" height="30" width="40" /></a>
+<a href="https://twitter.com/satansharma31" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satansharma31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satansharma-7549" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satansharma-7549" height="30" width="40" /></a>
 </div>
 <h3 align="left">Languages and Tools: </h3>
 <div align="center"> 
@@ -47,9 +47,15 @@
 <br/>  
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satan7549&show_icons=true&locale=en&layout=compact" alt="satan7549" /></p>
+<div align="center" width="100%"  >
+  <div width="100%" heigth="100px" >
+     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satan7549&show_icons=true&locale=en&layout=compact" alt="satan7549" />
+  </div>
+  
+ 
+<p>&nbsp;<img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=satan7549&show_icons=true&locale=en" alt="satan7549" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satan7549&show_icons=true&locale=en" alt="satan7549" /></p>
+<img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=satan7549&" alt="satan7549" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satan7549&" alt="satan7549" /></p>
+</div>
 
