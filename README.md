@@ -47,15 +47,15 @@
 <br/>  
 </br>
 
-<div align="center" width="100%"  >
-  <div width="100%" heigth="100px" >
-     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satan7549&show_icons=true&locale=en&layout=compact" alt="satan7549" />
+<div align="center" width="100%"   >
+  <div width="100%" height="100px" >
+     <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satan7549&show_icons=true&locale=en&layout=compact" alt="satan7549" />
   </div>
   
  
-<p>&nbsp;<img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=satan7549&show_icons=true&locale=en" alt="satan7549" /></p>
+<p>&nbsp;<img align="center" width="70%"  src="https://github-readme-stats.vercel.app/api?username=satan7549&show_icons=true&locale=en" alt="satan7549" /></p>
 
-<img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=satan7549&" alt="satan7549" />
+<img align="center" width="70%"  src="https://github-readme-streak-stats.herokuapp.com/?user=satan7549&" alt="satan7549" />
 
 </div>
 
